@@ -1,0 +1,29 @@
+{
+  "name": "graphql-starter",
+  "version": "1.0.0",
+  "description": "learning graphql with graphql.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajnelsontirkey/graphql-starter.git"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs",
+    "graphqljs",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Pankaj Nelson Tirkey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajnelsontirkey/graphql-starter/issues"
+  },
+  "homepage": "https://github.com/pankajnelsontirkey/graphql-starter#readme",
+  "dependencies": {
+    "graphql": "^16.8.1"
+  }
+}
