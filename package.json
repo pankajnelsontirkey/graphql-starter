@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/pankajnelsontirkey/graphql-starter#readme",
   "dependencies": {
-    "graphql": "^16.8.1"
+    "express": "^4.19.2",
+    "graphql": "^16.8.1",
+    "graphql-http": "^1.22.1",
+    "ruru": "^2.0.0-beta.11"
   }
 }
